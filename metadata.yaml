@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37895
     wikipedia: http://en.wikipedia.org/wiki/Ambrose_Pratt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35775#First-Person-Paramount
 gutenberg_issued: '2011-04-06'
 gutenberg_type: Text
 identifiers:
